@@ -77,3 +77,6 @@ print(list)     # 打印list类型，list是python的一种数据类型
 print(a)
 for i in a:
     print(i)
+
+
+
